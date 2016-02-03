@@ -6,10 +6,10 @@ color:
     - '#909090'
     - '#000000'
     - '#000000'
-  brandStrength: 0.7833444960173133
-  lightness: 0.46120987631257915
-  rhythmicContrast: 0.126237315240029
-  saturation: 0.4941381403683627
+  brandStrength: 0.783344
+  lightness: 0.461209
+  rhythmicContrast: 0.126237
+  saturation: 0.494138
 cta: {}
 layout_spectrum: 1
 name: mellumphotography
